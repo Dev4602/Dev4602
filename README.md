@@ -4,13 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a Web developer💻that also is passionate about Data & Analytics 📊 .
 
+ ![dog-funny](https://github.com/Dev4602/Dev4602/assets/95117093/b29760c5-3e2d-4459-a50e-c14dbf1cd850)
+
+I am a Web developer💻with a deep passion for Data & Analytics 📊 .
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [shahdev017@gmail.com](mailto:shahdev017@gmail.com)
 * 🧠  I'm learning Microsoft Power Bi
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm Barney Stinson , Suit up !!!🧥
+* ⚽  An enthusiastic and active footy enjoyer!
+
+![regele-fotbalului-regele](https://github.com/Dev4602/Dev4602/assets/95117093/784ace56-7d1c-4094-81ec-0153370934b4)
+
 
 <a href="https://www.x.com/shahcasticdev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/shahcasticdev?logo=twitter&style=for-the-badge&color=6366f1&labelColor=1c1917"
